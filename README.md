@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I am Sepehr, I am a software engineer in love with games. I love creating game servers and optimizing codes. If you leave me by my own, you might find me embedding lua and python in some Rust and C++ codes ...
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RevengeComing&show_icons=true&theme=highcontrast)
+
 <!--
 **RevengeComing/RevengeComing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
