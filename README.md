@@ -6,7 +6,6 @@ Some things I love and I work/play with are Python, Cython, Go, C++, Rust, JS, L
 - 🔭 I’m currently working on a multiplayer game.
 - 🌱 I’m currently learning Rust.
 - 💬 Ask me about anything.
-- 📫 How to reach me: -> s(dot)hamzelooy(at)gmail(dot)com <-
 - ⚡ Fun fact: If you leave me by my own, you might find me embedding lua and python in some Rust and C++ codes ...
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RevengeComing&show_icons=true&theme=highcontrast)
